@@ -1,4 +1,4 @@
-Entername: Build and Push New Multi-Arch gRPC Docker Image
+name: Build and Push New Multi-Arch gRPC Docker Image
 
 on:
   push:
